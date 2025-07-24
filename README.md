@@ -1,2 +1,3 @@
-# hello-world
-我在github上的第一个储存库
+# 食谱推荐app
+前端使用Android studio
+后端Springboot
